@@ -1,0 +1,9 @@
+-materializecss
+-react
+-redux
+-google firebase
+
+
+to use:
+express
+restAPI
